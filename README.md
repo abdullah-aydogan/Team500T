@@ -1,3 +1,9 @@
 Contributors:
 
-<Abdullah AYDOĞAN>
+Abdullah AYDOĞAN
+
+Berke ERTEN
+
+Fatma Nur BEDELOGLU
+
+Selen BODUR
