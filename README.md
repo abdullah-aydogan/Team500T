@@ -7,7 +7,11 @@ Berke ERTEN
 Fatma Nur BEDELOGLU
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Selen BODUR
 =======
 Selen BODUR
 >>>>>>> movies
+=======
+Selen BODUR
+>>>>>>> foods
