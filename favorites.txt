@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Favorite Foods:
 Köfte
 Lahmacun
 Pide
+=======
+Favorite Movies:
+Taşıyıcı
+Evde Tek Başına
+Yüzüklerin Efendisi
+>>>>>>> movies
