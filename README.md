@@ -1,4 +1,4 @@
 Contributors:
 
-<Abdullah AYDOĞAN>
-<Berke ERTEN> 
+Abdullah AYDOĞAN
+Berke ERTEN
