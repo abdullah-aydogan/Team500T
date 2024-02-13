@@ -6,3 +6,7 @@ Pide
 Burger
 Pizza
 Sushi
+
+Kebap
+Mantı
+Köfte
