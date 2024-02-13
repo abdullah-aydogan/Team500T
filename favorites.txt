@@ -1,8 +1,8 @@
-Favorite Movies:
-Taşıyıcı
-Evde Tek Başına
-Yüzüklerin Efendisi
+Favorite Foods:
+Köfte
+Lahmacun
+Pide
 
-Batman Begins 
-Dark Knight
-Dark Knight Rises
+Burger
+Pizza
+Sushi
