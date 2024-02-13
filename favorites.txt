@@ -3,6 +3,10 @@ Köfte
 Lahmacun
 Pide
 
+İskender
+Burger
+Sushi
+
 Favorite Movies:
 Taşıyıcı
 Evde Tek Başına
